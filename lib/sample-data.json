@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "link": "https://www.youtube.com/@3Blue1Brown",
+    "name": "3Blue1Brown",
+    "tags": ["Math", "Education", "Animation"],
+    "note": "Amazing visual explanations of mathematical concepts",
+    "favourite": true
+  },
+  {
+    "id": "2", 
+    "link": "https://www.youtube.com/@veritasium",
+    "name": "Veritasium",
+    "tags": ["Science", "Physics", "Education"],
+    "note": "Great science experiments and explanations",
+    "favourite": true
+  },
+  {
+    "id": "3",
+    "link": "https://www.youtube.com/@TechLead",
+    "name": "TechLead",
+    "tags": ["Programming", "Tech", "Career"],
+    "note": "Programming and tech career advice",
+    "favourite": false
+  },
+  {
+    "id": "4",
+    "link": "https://www.youtube.com/@crashcourse",
+    "name": "Crash Course",
+    "tags": ["Education", "History", "Science", "Literature"],
+    "note": "Comprehensive educational content across multiple subjects",
+    "favourite": true
+  }
+]
